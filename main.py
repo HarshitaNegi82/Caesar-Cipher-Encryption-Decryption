@@ -45,4 +45,5 @@ def main():
 
     print("Result:", result)
 
-main()
+if __name__ == "__main__":
+    main()
