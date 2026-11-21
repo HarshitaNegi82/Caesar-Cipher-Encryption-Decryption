@@ -72,7 +72,7 @@ Enter your text and a shift value between 1 and 25.
 === Caesar Cipher ===
 Type 'e' to encrypt or 'd' to decrypt: e
 Enter your text: hello
-Enter shift (1-25): 4
+Enter shift (1-25): 3
 Result: khoor
 ```
 
